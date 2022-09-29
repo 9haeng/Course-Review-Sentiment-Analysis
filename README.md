@@ -25,7 +25,7 @@
 - 데이터 소개 및 분석 프로세스 수립
     - 데이터 탐색 및 전처리
         -  결측값, 중복값 처리
-    - `Target featrue` 생성
+    - `Target feature` 생성
         - `Word Cloud`
 - 지도 학습 기반의 분류
     - `Baseline` hyper parameter tuning
